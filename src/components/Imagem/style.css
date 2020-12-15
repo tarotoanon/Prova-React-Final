@@ -1,0 +1,11 @@
+.imagem{
+    position: relative;
+    width: 500px;
+    right: 750px;
+    opacity: 0.8;
+}
+
+.texto{
+    position: relative;
+    right: 450px;
+}

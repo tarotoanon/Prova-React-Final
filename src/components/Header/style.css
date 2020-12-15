@@ -1,0 +1,35 @@
+
+
+
+
+.num {
+    position: absolute;
+    top: 519px;
+    left: 40px;
+    font-size: 17px;
+    color: green;
+}
+
+
+
+.facebook{
+    position: absolute;
+    top: 565px;
+    left: 40px;
+    font-size: 17px;
+    color: blue;
+}
+
+
+.instagram{
+    position: absolute;
+    top: 611px;
+    left: 40px;
+    font-size: 17px;
+    color: rgb(224, 17, 62);
+}
+
+#img{
+    width: 10px;
+}
+
